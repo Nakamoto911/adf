@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+scikit-learn
+matplotlib
+
+# TODO: Add project-specific libraries based on the paper being replicated.
+# Examples: yfinance, alphalens, pyfolio, ta-lib, statsmodels, xgboost, etc.

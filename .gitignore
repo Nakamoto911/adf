@@ -1,0 +1,14 @@
+# Environments
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Project specific ignores
+data_cache/
+reports/
+.claude/
+replicate_template.md
+
+# Exclude large research PDFs from the repo
+*.pdf
